@@ -10,6 +10,7 @@ It needs to be applied on top of the [qubesdecorations patch](https://github.com
 
 Download
 --------
+* [dwm-qubesrules-6.3.diff](dwm-qubesrules-6.3.diff) (2022-01-07)
 * [dwm-qubesrules-6.2.diff](dwm-qubesrules-6.2.diff) (2019-12-30)
 
 Author
